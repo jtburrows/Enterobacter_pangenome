@@ -13,6 +13,6 @@ The notebooks outline a workflow necessary to create the pangenome and involve t
 
 These tools were used for analysis of sequences and some of the outputs of these tools were included. Fasta files and Bakta annotated Gff files are not included due to their large size, however these can be downloaded using the notebooks and then annotated with Bakta by the user. 
 
-The notebooks are meant to be gone through in order, however analysis of the pangenome initailly created can be performed by starting from section __5__, as upstream results necessary for analysis (excluding the annotated Bakta files), are included. 
+The notebooks are meant to be gone through in order, however analysis of the pangenome initailly created can be performed by starting from section __5__, as upstream results necessary for analysis (excluding the annotated Bakta files), are available at [10.5281/zenodo.15595724](10.5281/zenodo.15595724). 
 
 Installation of the python packages necessary for running the notebooks can be accomplished by using the included environment.yml file. 
