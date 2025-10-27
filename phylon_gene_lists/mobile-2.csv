@@ -1,0 +1,106 @@
+Gene,allele,seed_ortholog,evalue,score,eggNOG_OGs,max_annot_lvl,COG_category,Description,Preferred_name,GOs,EC,KEGG_ko,KEGG_Pathway,KEGG_Module,KEGG_Reaction,KEGG_rclass,BRITE,KEGG_TC,CAZy,BiGG_Reaction,PFAMs,phylon_exclusive
+group_35829,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45978,group_45978,220341.16506106,0.0,1049.0,"COG0419@1|root,COG0419@2|Bacteria,1QR2F@1224|Proteobacteria,1SMDQ@1236|Gammaproteobacteria",2|Bacteria,L,RecF/RecN/SMC N terminal domain,sbcC,-,-,ko:K03546,-,-,-,-,"ko00000,ko03400",-,-,-,"AAA_23,Rad50_zn_hook,SMC_N,SbcCD_C",True
+group_30140,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_10397,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_24765,group_24765,220341.16505986,9.93e-91,265.0,"2DSIH@1|root,33G9Z@2|Bacteria,1NJJX@1224|Proteobacteria,1SGWY@1236|Gammaproteobacteria",2|Bacteria,S,Protein of unknown function (DUF2591),-,-,-,-,-,-,-,-,-,-,-,-,DUF2591,True
+group_32841,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_30583,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+ydfZ,ydfZ,220341.16506077,3.19e-41,135.0,"2C4ZZ@1|root,3320I@2|Bacteria,1N7QH@1224|Proteobacteria,1SCDY@1236|Gammaproteobacteria",2|Bacteria,S,selenium-binding protein YdfZ,ydfZ_1,-,-,-,-,-,-,-,-,-,-,-,YdfZ,True
+group_36473,group_36473,220341.16506062,2.1499999999999998e-126,359.0,"2F140@1|root,33U5F@2|Bacteria,1NV29@1224|Proteobacteria,1SNI4@1236|Gammaproteobacteria,3ZNDI@590|Salmonella",2|Bacteria,N,Repressor of phase-1 flagellin,-,-,-,-,-,-,-,-,-,-,-,-,Flag1_repress,True
+group_34617,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36932,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45627,group_45627,220341.16506100,2.77e-253,696.0,"COG0207@1|root,COG0207@2|Bacteria,1MUBD@1224|Proteobacteria,1RPYV@1236|Gammaproteobacteria,3ZKKY@590|Salmonella",2|Bacteria,F,"Catalyzes the reductive methylation of 2'-deoxyuridine- 5'-monophosphate (dUMP) to 2'-deoxythymidine-5'-monophosphate (dTMP) while utilizing 5,10-methylenetetrahydrofolate (mTHF) as the methyl donor and reductant in the reaction, yielding dihydrofolate (DHF) as a by-product. This enzymatic reaction provides an intracellular de novo source of dTMP, an essential precursor for DNA biosynthesis",thyA,-,2.1.1.45,ko:K00560,"ko00240,ko00670,ko01100,ko01523,map00240,map00670,map01100,map01523",M00053,R02101,"RC00219,RC00332","ko00000,ko00001,ko00002,ko01000",-,-,-,Thymidylat_synt,True
+group_46194,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_33616,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_20848,group_20848,220341.16506005,1.3899999999999998e-54,173.0,"2D1MV@1|root,32TAZ@2|Bacteria,1N45A@1224|Proteobacteria,1S954@1236|Gammaproteobacteria",2|Bacteria,S,Phage protein (N4 Gp49/phage Sf6 gene 66) family,-,-,-,-,-,-,-,-,-,-,-,-,"DUF2829,Phage_gp49_66",True
+group_45923,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_43030,group_43030,220341.16506027,3.63e-143,405.0,"COG1192@1|root,COG1192@2|Bacteria,1MWRE@1224|Proteobacteria,1RMZN@1236|Gammaproteobacteria",2|Bacteria,D,involved in chromosome partitioning,-,-,-,ko:K03496,-,-,-,-,"ko00000,ko03036,ko04812",-,-,-,"AAA_31,CbiA",True
+group_35735,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_20665,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_44602,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_35573,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36596,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_23168,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_32924,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_43638,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45674,group_45674,220341.16505989,3.32e-194,562.0,"COG0468@1|root,COG0468@2|Bacteria,1MU3C@1224|Proteobacteria,1RMHP@1236|Gammaproteobacteria,3ZJDI@590|Salmonella",2|Bacteria,L,"Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage",recA,"GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006259,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0008152,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0031668,GO:0033554,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044444,GO:0044464,GO:0046483,GO:0050896,GO:0051716,GO:0071496,GO:0071704,GO:0090304,GO:1901360",-,ko:K03553,"ko03440,map03440",M00729,-,-,"ko00000,ko00001,ko00002,ko03400",-,-,-,RecA,True
+group_30139,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45032,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45357,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36597,group_36597,220341.16506033,0.0,1871.0,"COG1196@1|root,COG4733@1|root,COG1196@2|Bacteria,COG4733@2|Bacteria,1MXXZ@1224|Proteobacteria,1RNFD@1236|Gammaproteobacteria,3ZJ9T@590|Salmonella",2|Bacteria,D,Fibronectin type III protein,sca1,-,-,-,-,-,-,-,-,-,-,-,"Autotransporter,DUF1983,DUF3672,Phage-tail_3",True
+group_21115,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_33183,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_37532,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+cobT2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_41871,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_46014,group_46014,220341.16506108,3.01e-253,695.0,"COG0420@1|root,COG0420@2|Bacteria,1NV65@1224|Proteobacteria,1SP5F@1236|Gammaproteobacteria",2|Bacteria,L,Calcineurin-like phosphoesterase,-,-,3.1.1.53,"ko:K03547,ko:K05970",-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"Metallophos,Metallophos_2",True
+group_12727,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_8796,group_8796,220341.16506055,3.79e-52,164.0,"2EF6I@1|root,338ZM@2|Bacteria,1NDWU@1224|Proteobacteria,1SECP@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+mK0520,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_34146,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_42289,group_42289,220341.16506007,4.52e-171,479.0,"COG1702@1|root,COG1702@2|Bacteria,1PNF2@1224|Proteobacteria,1RNZ7@1236|Gammaproteobacteria,3ZJY2@590|Salmonella",2|Bacteria,T,PhoH-like protein,phoH,-,-,ko:K06217,-,-,-,-,ko00000,-,-,-,PhoH,True
+group_37693,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45819,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_47998,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_18160,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_47420,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_25896,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_34928,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36202,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_38856,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_38382,group_38382,220341.16506075,4.79e-57,178.0,"28RT8@1|root,2ZE5K@2|Bacteria,1P5MZ@1224|Proteobacteria,1SVPY@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31590,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_42297,group_42297,220341.16506026,1.01e-70,214.0,"28W4C@1|root,2ZI58@2|Bacteria,1PBGD@1224|Proteobacteria,1SU1Y@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31967,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_46428,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+exoIX,exoIX,220341.16505991,4.94e-217,600.0,"COG0258@1|root,COG0258@2|Bacteria,1N5IZ@1224|Proteobacteria,1SRJ2@1236|Gammaproteobacteria",2|Bacteria,L,Helix-hairpin-helix class 2 (Pol1 family) motifs,polA,"GO:0003674,GO:0003824,GO:0003887,GO:0004518,GO:0004527,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006139,GO:0006259,GO:0006260,GO:0006261,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0008409,GO:0009058,GO:0009059,GO:0009987,GO:0016020,GO:0016740,GO:0016772,GO:0016779,GO:0016787,GO:0016788,GO:0018130,GO:0019438,GO:0030312,GO:0033554,GO:0034061,GO:0034641,GO:0034645,GO:0034654,GO:0040007,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0044424,GO:0044464,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0071897,GO:0071944,GO:0090304,GO:0090305,GO:0140097,GO:1901360,GO:1901362,GO:1901576",2.7.7.7,"ko:K01146,ko:K02335","ko00230,ko00240,ko01100,ko03030,ko03410,ko03420,ko03440,map00230,map00240,map01100,map03030,map03410,map03420,map03440",-,"R00375,R00376,R00377,R00378",RC02795,"ko00000,ko00001,ko01000,ko03032,ko03400",-,-,-,"5_3_exonuc,5_3_exonuc_N,DNA_pol_A,DNA_pol_A_exo1",True
+group_20733,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_48699,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_44321,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_43194,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_37514,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45628,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_34531,group_34531,220341.16506031,9.5e-68,205.0,"2F7IJ@1|root,33ZZ6@2|Bacteria,1NXXW@1224|Proteobacteria,1SR0Y@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_48683,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_23325,group_23325,220341.16506057,2.27e-142,403.0,"COG1475@1|root,COG1475@2|Bacteria,1PCSH@1224|Proteobacteria,1TKI5@1236|Gammaproteobacteria,3ZNF0@590|Salmonella",2|Bacteria,K,ParB-like nuclease domain,-,-,-,-,-,-,-,-,-,-,-,-,ParBc,True
+group_36129,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31964,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_16535,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_33181,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_25154,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45939,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_28151,group_28151,1115515.EV102420_08_02340,2.31e-14,74.7,"2C513@1|root,33TGP@2|Bacteria,1NRNV@1224|Proteobacteria,1SKH3@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+corA,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_37437,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_33262,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+yjdB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36931,group_36931,220341.16506076,6.11e-54,169.0,"2C59U@1|root,32Y4E@2|Bacteria,1N6SI@1224|Proteobacteria,1SD4X@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36416,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_47617,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31965,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+dfrA51,dfrA51,220341.16506098,3.37e-99,289.0,"COG0262@1|root,COG0262@2|Bacteria,1RH0P@1224|Proteobacteria,1S5VH@1236|Gammaproteobacteria",2|Bacteria,H,"Key enzyme in folate metabolism. Catalyzes an essential reaction for de novo glycine and purine synthesis, and for DNA precursor synthesis",folA,"GO:0000166,GO:0003674,GO:0003824,GO:0004146,GO:0005488,GO:0006082,GO:0006575,GO:0006725,GO:0006730,GO:0006732,GO:0006760,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009396,GO:0009987,GO:0016053,GO:0016491,GO:0016645,GO:0016646,GO:0018130,GO:0019438,GO:0019752,GO:0034641,GO:0036094,GO:0042398,GO:0042558,GO:0042559,GO:0043167,GO:0043168,GO:0043436,GO:0043603,GO:0043604,GO:0044237,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0046394,GO:0046483,GO:0046653,GO:0046654,GO:0048037,GO:0050661,GO:0050662,GO:0051186,GO:0051188,GO:0055114,GO:0070401,GO:0071704,GO:0097159,GO:1901265,GO:1901360,GO:1901362,GO:1901363,GO:1901564,GO:1901566,GO:1901576",1.5.1.3,"ko:K00287,ko:K18590","ko00670,ko00790,ko01100,ko01523,map00670,map00790,map01100,map01523","M00126,M00840","R00936,R00937,R00939,R00940,R02235,R02236,R11765","RC00109,RC00110,RC00158","br01600,ko00000,ko00001,ko00002,ko01000,ko01504",-,-,"iJN746.PP_5132,iNJ661.Rv2763c",DHFR_1,True
+group_37985,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_28779,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_37306,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_44320,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31591,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36201,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_38139,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_29672,group_29672,220341.16506038,0.0,2608.0,"COG0419@1|root,COG3941@1|root,COG0419@2|Bacteria,COG3941@2|Bacteria,1MZWI@1224|Proteobacteria,1RQ7Y@1236|Gammaproteobacteria",2|Bacteria,L,Mu-like prophage protein,-,-,-,ko:K03546,-,-,-,-,"ko00000,ko03400",-,-,-,"AAA_23,DUF3732,Tape_meas_lam_C",True
+group_5501,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36576,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_1934,group_1934,220341.16506039,4.27e-58,179.0,"2FJSD@1|root,34BF4@2|Bacteria,1P3U3@1224|Proteobacteria,1SRIP@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_46045,group_46045,220341.16506110,8.87e-107,308.0,"2ERIN@1|root,33J45@2|Bacteria,1NPRI@1224|Proteobacteria,1SIH2@1236|Gammaproteobacteria",2|Bacteria,S,Acetyltransferase (GNAT) family,-,-,-,-,-,-,-,-,-,-,-,-,Acetyltransf_1,True
+group_45673,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_36203,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45270,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_1936,group_1936,220341.16506040,1.94e-66,202.0,"2F968@1|root,341HQ@2|Bacteria,1NZ9F@1224|Proteobacteria,1SQ2G@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_22948,group_22948,406818.XBJ1_4308,1.05e-14,72.4,"2EDK2@1|root,337I6@2|Bacteria,1NCPG@1224|Proteobacteria,1SET9@1236|Gammaproteobacteria",2|Bacteria,S,"Toxin YafO, type II toxin-antitoxin system",-,-,-,ko:K19160,-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,YafO_toxin,True
+group_47625,group_47625,220341.16506000,2.05e-81,241.0,"2AMX3@1|root,32N5X@2|Bacteria,1Q3K8@1224|Proteobacteria,1SS6V@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_47974,group_47974,220341.16506085,0.0,1096.0,"COG0827@1|root,COG0827@2|Bacteria,1QAWE@1224|Proteobacteria,1SGJI@1236|Gammaproteobacteria",2|Bacteria,L,Domain of unknown function (DUF4942),-,-,-,-,-,-,-,-,-,-,-,-,"DUF4942,N6_Mtase",True
+group_34384,group_34384,104623.Ser39006_00134,5.26e-110,318.0,"COG3311@1|root,COG3311@2|Bacteria,1RFU1@1224|Proteobacteria,1RYMB@1236|Gammaproteobacteria,40538@613|Serratia",2|Bacteria,K,Transcriptional regulator,-,-,-,-,-,-,-,-,-,-,-,-,Phage_AlpA,True
+group_23282,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_38666,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45820,group_45820,220341.16506103,0.0,1454.0,"COG0209@1|root,COG0209@2|Bacteria,1MUJ8@1224|Proteobacteria,1RMPV@1236|Gammaproteobacteria,3ZJXF@590|Salmonella",2|Bacteria,F,Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides,nrdA,-,1.17.4.1,ko:K00525,"ko00230,ko00240,ko01100,map00230,map00240,map01100",M00053,"R02017,R02018,R02019,R02024",RC00613,"ko00000,ko00001,ko00002,ko01000,ko03400",-,-,-,"ATP-cone,Ribonuc_red_lgC,Ribonuc_red_lgN",True
+group_43060,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True

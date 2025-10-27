@@ -1,0 +1,74 @@
+Gene,allele,seed_ortholog,evalue,score,eggNOG_OGs,max_annot_lvl,COG_category,Description,Preferred_name,GOs,EC,KEGG_ko,KEGG_Pathway,KEGG_Module,KEGG_Reaction,KEGG_rclass,BRITE,KEGG_TC,CAZy,BiGG_Reaction,PFAMs,phylon_exclusive
+group_35076,group_35076,1215092.PA6_046_00270,3.49e-05,47.8,"28QDM@1|root,2ZCVZ@2|Bacteria,1P5MR@1224|Proteobacteria,1SW6Y@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+traF~~~trbA,traF~~~trbA,572265.HDEF_p0018,1.03e-28,119.0,"COG1651@1|root,COG1651@2|Bacteria,1MYHA@1224|Proteobacteria,1S7JM@1236|Gammaproteobacteria,283GG@191675|unclassified Enterobacteriaceae",2|Bacteria,O,Required for disulfide bond formation in some periplasmic proteins. Acts by transferring its disulfide bond to other proteins and is reduced in the process,trbB,-,-,ko:K12228,-,-,-,-,"ko00000,ko02044",3.A.7.10.1,-,-,"DSBA,Thioredoxin_2",True
+group_18896,group_18896,1229485.AMYV01000119_gene3520,2.85e-14,72.8,"2E8NX@1|root,33304@2|Bacteria,1NEFP@1224|Proteobacteria,1SQTB@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,RHH_1,True
+group_14391,group_14391,573.JG24_01860,3.49e-102,295.0,"2921C@1|root,2ZPKK@2|Bacteria,1REBZ@1224|Proteobacteria,1S3SZ@1236|Gammaproteobacteria",2|Bacteria,S,antirestriction protein,-,-,-,-,-,-,-,-,-,-,-,-,Antirestrict,True
+repC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_21359,group_21359,1224136.AMFN01000014_gene2603,2.13e-103,317.0,"COG2805@1|root,COG2805@2|Bacteria,1MU3J@1224|Proteobacteria,1RN8G@1236|Gammaproteobacteria,2830N@191675|unclassified Enterobacteriaceae",2|Bacteria,NU,Type II/IV secretion system protein,dotB,-,-,"ko:K02669,ko:K02670,ko:K12203",-,-,-,-,"ko00000,ko02035,ko02044","3.A.15.2,3.A.7.10.1,3.A.7.9.1",-,-,T2SSE,True
+group_26786,group_26786,1198232.CYCME_3050,5.54e-16,73.2,"2E68H@1|root,330WQ@2|Bacteria,1ND48@1224|Proteobacteria,1SF4U@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+blaOXA~~~blaOXA48,blaOXA~~~blaOXA48,211586.SO_0837,3.01e-182,508.0,"COG2602@1|root,COG2602@2|Bacteria,1NWXE@1224|Proteobacteria,1RZ9U@1236|Gammaproteobacteria,2QBAC@267890|Shewanellaceae",2|Bacteria,V,PFAM penicillin-binding protein transpeptidase,bla,-,3.5.2.6,"ko:K17838,ko:K18793,ko:K18794,ko:K18973,ko:K18976,ko:K19210,ko:K19211,ko:K19213,ko:K19318,ko:K19321,ko:K21277,ko:K22333,ko:K22351,ko:K22352","ko01501,map01501",-,R06363,RC01499,"br01600,ko00000,ko00001,ko01000,ko01504",-,-,-,Transpeptidase,True
+group_45872,group_45872,573.JG24_01780,3.84e-51,161.0,"2CFD2@1|root,2ZS6H@2|Bacteria,1PB0W@1224|Proteobacteria,1ST6V@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_50980,group_50980,1229485.AMYV01000083_gene3481,3.33e-22,95.1,"2BF2T@1|root,328UU@2|Bacteria,1RM2Z@1224|Proteobacteria,1S7DC@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_16186,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_64,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_6887,group_6887,1333507.AUTQ01000240_gene2882,2.18e-05,48.1,"2DMZG@1|root,32UK5@2|Bacteria,1N4PZ@1224|Proteobacteria,1SAW0@1236|Gammaproteobacteria,2Q2ZV@267888|Pseudoalteromonadaceae",2|Bacteria,S,COG2916 DNA-binding protein H-NS,-,-,-,ko:K03746,-,-,-,-,"ko00000,ko03036,ko03400",-,-,-,Histone_HNS,True
+group_22256,group_22256,1484157.PSNIH2_19970,4e-16,71.6,"2994A@1|root,2ZW7T@2|Bacteria,1PABF@1224|Proteobacteria,1SUS2@1236|Gammaproteobacteria,3W2GQ@53335|Pantoea",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_11309,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_23348,group_23348,399741.Spro_4097,1.15e-38,139.0,"COG1715@1|root,COG1715@2|Bacteria,1RFBM@1224|Proteobacteria,1S1SY@1236|Gammaproteobacteria,403MW@613|Serratia",2|Bacteria,V,PFAM restriction endonuclease,-,-,-,ko:K07448,-,-,-,-,"ko00000,ko02048",-,-,-,Mrr_cat,True
+group_45461,group_45461,573.JG24_01795,6.86e-229,630.0,"COG0443@1|root,COG0443@2|Bacteria,1R4I4@1224|Proteobacteria,1RRY4@1236|Gammaproteobacteria",2|Bacteria,O,PFAM StbA family protein,yegD,-,-,"ko:K04046,ko:K18640",-,-,-,-,"ko00000,ko03110,ko04812",1.A.33,-,-,"HSP70,StbA",True
+group_18265,group_18265,573.JG24_28315,4.08e-05,49.7,"COG3077@1|root,COG3077@2|Bacteria,1N8G2@1224|Proteobacteria,1SCQI@1236|Gammaproteobacteria",2|Bacteria,L,bifunctional antitoxin of the RelE-RelB toxin-antitoxin system transcriptional repressor,relB,-,-,"ko:K07473,ko:K18918",-,-,-,-,"ko00000,ko02048,ko03000",-,-,-,RelB,True
+traI~~~dotC,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_26276,group_26276,1229485.AMYV01000083_gene3482,1.07e-09,64.7,"2F5BA@1|root,33XXE@2|Bacteria,1NWB6@1224|Proteobacteria,1SNWM@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,ko:K12211,-,-,-,-,"ko00000,ko02044",3.A.7.9.1,-,-,-,True
+group_23349,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_21249,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45459,group_45459,573.JG24_01790,3.69e-178,496.0,"COG0582@1|root,COG0582@2|Bacteria,1RGC1@1224|Proteobacteria,1S55W@1236|Gammaproteobacteria",2|Bacteria,L,Phage integrase family,-,-,-,"ko:K04763,ko:K07357",-,-,-,-,"ko00000,ko03036",-,-,-,"Arm-DNA-bind_5,Phage_int_SAM_1,Phage_int_SAM_5,Phage_integrase",True
+group_30242,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+yagA,yagA,573.JG24_01835,2.36e-77,230.0,"2EK02@1|root,33DQM@2|Bacteria,1NKQA@1224|Proteobacteria,1SJBA@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_43079,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_11753,group_11753,573.JG24_01850,2.25e-91,267.0,"2FCPY@1|root,344T5@2|Bacteria,1NZVT@1224|Proteobacteria,1SSB7@1236|Gammaproteobacteria",2|Bacteria,S,Protein of unknown function (DUF1380),-,-,-,-,-,-,-,-,-,-,-,-,DUF1380,True
+group_34377,group_34377,573.JG24_01815,3.46e-99,288.0,"COG2003@1|root,COG2003@2|Bacteria,1MXZ5@1224|Proteobacteria,1S246@1236|Gammaproteobacteria",2|Bacteria,L,Belongs to the UPF0758 family,radC,-,-,ko:K03630,-,-,-,-,ko00000,-,-,-,RadC,True
+group_51595,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_10698,group_10698,155864.EDL933_p0004,6.52e-08,51.6,"2CN5N@1|root,32SGA@2|Bacteria,1MZDE@1224|Proteobacteria,1S995@1236|Gammaproteobacteria",2|Bacteria,S,non-specific DNA-binding protein which affects the production of multiple proteins,-,-,-,ko:K05839,-,-,-,-,"ko00000,ko02048",-,-,-,HHA,True
+group_15198,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_51965,group_51965,573.JG24_01925,1.05e-18,85.1,"2C84D@1|root,32RKD@2|Bacteria,1N1SV@1224|Proteobacteria,1SBBB@1236|Gammaproteobacteria",2|Bacteria,S,DotD protein,-,-,-,ko:K12205,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,DotD,True
+group_15743,group_15743,573.JG24_02055,3.19e-60,189.0,"COG1974@1|root,COG1974@2|Bacteria,1MZFA@1224|Proteobacteria,1S5X5@1236|Gammaproteobacteria",2|Bacteria,KT,Belongs to the peptidase S24 family,umuD,-,-,ko:K03503,-,-,-,-,"ko00000,ko01000,ko01002,ko03400",-,-,-,Peptidase_S24,True
+group_27047,group_27047,1332071.L581_1533,1.7700000000000002e-26,109.0,"2BVH1@1|root,32QVP@2|Bacteria,1RGI1@1224|Proteobacteria,1S56Y@1236|Gammaproteobacteria",2|Bacteria,S,"Type-IV b secretion system, inner-membrane complex component",icmL,-,-,ko:K12214,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,T4BSS_DotI_IcmL,True
+group_14509,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_31994,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_26275,group_26275,572265.HDEF_p0030,4.64e-05,47.8,"2B0RF@1|root,31T3N@2|Bacteria,1QQTA@1224|Proteobacteria,1RTGY@1236|Gammaproteobacteria,283MF@191675|unclassified Enterobacteriaceae",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_41749,group_41749,549.BW31_01837,1.08e-08,57.0,"2EQSY@1|root,33ICR@2|Bacteria,1NHPU@1224|Proteobacteria,1SGI1@1236|Gammaproteobacteria,3W158@53335|Pantoea",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_18749,group_18749,573.JG24_01940,2.13e-23,92.0,"2E6TC@1|root,331DA@2|Bacteria,1NDJU@1224|Proteobacteria,1SDG6@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,ko:K12222,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,-,True
+group_21898,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_11134,group_11134,573.JG24_01865,1.1e-60,186.0,"2EHRV@1|root,33BHK@2|Bacteria,1NPRA@1224|Proteobacteria,1SJEZ@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_8083,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_11591,group_11591,573.JG24_01830,1.26e-214,591.0,"COG0827@1|root,COG0827@2|Bacteria,1MUZW@1224|Proteobacteria,1RSAY@1236|Gammaproteobacteria",2|Bacteria,L,Domain of unknown function (DUF4942),-,-,-,-,-,-,-,-,-,-,-,-,"DUF4942,MTS,TaqI_C",True
+group_22722,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_26392,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_19822,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+traW~~~traU,traW~~~traU,1224136.AMFN01000014_gene2594,6.899999999999999e-229,684.0,"COG0433@1|root,COG3451@1|root,COG0433@2|Bacteria,COG3451@2|Bacteria,1MWW7@1224|Proteobacteria,1RQMQ@1236|Gammaproteobacteria,283C3@191675|unclassified Enterobacteriaceae",2|Bacteria,U,AAA-like domain,icmB,-,-,ko:K12206,-,-,-,-,"ko00000,ko02044",3.A.7.9.1,-,-,DUF87,True
+pemK~~~mazF,pemK~~~mazF,243265.plu2365,3.34e-62,192.0,"COG2337@1|root,COG2337@2|Bacteria,1RH4Z@1224|Proteobacteria,1S4NQ@1236|Gammaproteobacteria",2|Bacteria,T,Toxic component of a toxin-antitoxin (TA) module,pemK,-,-,"ko:K07171,ko:K18841",-,-,-,-,"ko00000,ko01000,ko02048",-,-,-,PemK_toxin,True
+group_18264,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_13975,group_13975,572265.HDEF_p0016,5.4e-182,541.0,"COG3505@1|root,COG3505@2|Bacteria,1MV0M@1224|Proteobacteria,1RSC0@1236|Gammaproteobacteria,283C0@191675|unclassified Enterobacteriaceae",2|Bacteria,U,Type IV secretory pathway VirD4,icmO,-,-,ko:K12217,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,"DUF87,TraG-D_C,TrwB_AAD_bind",True
+group_23724,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_32206,group_32206,572265.HDEF_0734,7.27e-05,46.2,"28XYR@1|root,2ZJUN@2|Bacteria,1P555@1224|Proteobacteria,1ST73@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_4243,group_4243,573.JG24_01890,3.8699999999999997e-90,300.0,"COG3843@1|root,COG3843@2|Bacteria,1QUDG@1224|Proteobacteria,1RSQW@1236|Gammaproteobacteria",2|Bacteria,U,Relaxase/Mobilisation nuclease domain,traI,-,-,-,-,-,-,-,-,-,-,-,Relaxase,True
+repB,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_23074,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_41891,group_41891,1080067.BAZH01000016_gene534,1.01e-13,74.7,"COG1266@1|root,COG1266@2|Bacteria,1PPHZ@1224|Proteobacteria,1TKES@1236|Gammaproteobacteria,3WW3P@544|Citrobacter",2|Bacteria,S,CAAX protease self-immunity,CP_0355,-,-,ko:K07052,-,-,-,-,ko00000,-,-,-,Abi,True
+trbN,trbN,1116472.MGMO_93c00550,9.81e-16,77.8,"COG0741@1|root,COG0741@2|Bacteria,1N8BR@1224|Proteobacteria,1S4ZS@1236|Gammaproteobacteria",2|Bacteria,M,Conjugal transfer protein,trbN,-,-,-,-,-,-,-,-,-,-,-,SLT,True
+group_22355,group_22355,573.JG24_02480,1.31e-69,228.0,"28P1U@1|root,2ZBY2@2|Bacteria,1RC4P@1224|Proteobacteria,1S2PD@1236|Gammaproteobacteria",2|Bacteria,S,IncFII RepA protein family,repA,-,-,-,-,-,-,-,-,-,-,-,IncFII_repA,True
+group_16070,group_16070,1484157.PSNIH2_21750,5.210000000000001e-37,136.0,"2A40C@1|root,32QW5@2|Bacteria,1RHQ6@1224|Proteobacteria,1S8H5@1236|Gammaproteobacteria,3W1IP@53335|Pantoea",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_13665,group_13665,220341.16502170,3.2100000000000004e-73,240.0,"arCOG09463@1|root,2Z8U6@2|Bacteria,1NHE7@1224|Proteobacteria,1RY5W@1236|Gammaproteobacteria",2|Bacteria,S,DNA sulfur modification protein DndB,dndB,-,-,ko:K19169,-,-,-,-,"ko00000,ko02048",-,-,-,DndB,True
+group_32536,group_32536,1229485.AMYV01000083_gene3484,9.72e-67,222.0,"2CPXU@1|root,32SK2@2|Bacteria,1N2P6@1224|Proteobacteria,1RRXA@1236|Gammaproteobacteria",2|Bacteria,S,Putative outer membrane core complex of type IVb secretion,icmK,-,-,ko:K12213,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,T4BSS_DotH_IcmK,True
+group_41662,group_41662,243265.plu2366,1.2800000000000002e-47,153.0,"COG2336@1|root,COG2336@2|Bacteria,1N4WH@1224|Proteobacteria,1S75G@1236|Gammaproteobacteria",2|Bacteria,T,SpoVT AbrB domain-containing protein,pemI,-,-,"ko:K07172,ko:K18842",-,-,-,-,"ko00000,ko02048",-,-,-,MazE_antitoxin,True
+group_41785,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_13116,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_45713,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+trbA,trbA,1229485.AMYV01000119_gene3526,1.3499999999999999e-34,142.0,"2CA66@1|root,31YVT@2|Bacteria,1RJER@1224|Proteobacteria,1S6F3@1236|Gammaproteobacteria",2|Bacteria,-,-,icmP,-,-,ko:K12218,-,-,-,-,"ko00000,ko02044","3.A.7.10.1,3.A.7.9.1",-,-,-,True
+group_44871,group_44871,568768.CM001975_gene858,6.45e-14,71.6,"2DSQV@1|root,33H3G@2|Bacteria,1NI2Q@1224|Proteobacteria,1SHW9@1236|Gammaproteobacteria",2|Bacteria,S,Plasmid stability protein,-,-,-,-,-,-,-,-,-,-,-,-,Plasmid_stab_B,True
+group_14127,group_14127,220341.16506075,4.34e-21,87.4,"28RT8@1|root,2ZE5K@2|Bacteria,1P5MZ@1224|Proteobacteria,1SVPY@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_46559,group_46559,573.JG24_01770,2.58e-41,135.0,"2ER1H@1|root,33IM1@2|Bacteria,1NKBQ@1224|Proteobacteria,1SH23@1236|Gammaproteobacteria",2|Bacteria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_28373,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_12846,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,True
+group_21700,group_21700,1484157.PSNIH2_20020,2.53e-183,524.0,"COG0389@1|root,COG0389@2|Bacteria,1MUUH@1224|Proteobacteria,1RMT1@1236|Gammaproteobacteria,3VXRT@53335|Pantoea",2|Bacteria,L,DNA polymerase,umuC,-,2.7.7.7,"ko:K02346,ko:K03502",-,-,-,-,"ko00000,ko01000,ko03400",-,-,-,"DUF4113,IMS,IMS_C,IMS_HHH",True
+rmoA,rmoA,155864.EDL933_p0004,2.01e-08,53.1,"2CN5N@1|root,32SGA@2|Bacteria,1MZDE@1224|Proteobacteria,1S995@1236|Gammaproteobacteria",2|Bacteria,S,non-specific DNA-binding protein which affects the production of multiple proteins,-,-,-,ko:K05839,-,-,-,-,"ko00000,ko02048",-,-,-,HHA,True
