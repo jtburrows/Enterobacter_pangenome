@@ -10,8 +10,12 @@ The notebooks outline a workflow necessary to create the pangenome and involve t
 5. [MAFFT](https://mafft.cbrc.jp/alignment/software/linuxportable.html)
 6. [Blast](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
 7. [BGCFlow](https://github.com/NBChub/bgcflow)
+8. [GTDB-Tk](https://github.com/Ecogenomics/GTDBTk.git)
+9. [FastTree](https://github.com/morgannprice/fasttree)
+10. [FastANI](https://github.com/ParBLiSS/FastANI)
+11. [Panaroo](https://github.com/gtonkinhill/panaroo)
 
-These tools were used for analysis of sequences and some of the outputs of these tools were included. Fasta files and Bakta annotated Gff files are not included due to their large size, however these can be downloaded using the notebooks and then annotated with Bakta by the user. 
+These tools were used for analysis of sequences and some of the outputs of these tools were included in the repository linked below. Fasta files and Bakta annotated Gff files are not included due to their large size, however these can be downloaded using the notebooks and then annotated with Bakta by the user by running through the pipeline detailed by the notebooks. 
 
 The notebooks are meant to be gone through in order, however analysis of the pangenome initailly created can be performed by starting from section __5__, as upstream results necessary for analysis (excluding the annotated Bakta files), are available at [this link](https://zenodo.org/records/15595724?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjI4MmM4ZGU2LWQ0NzAtNGUwMi05MDkyLThjOWNmNzg0NDI5MiIsImRhdGEiOnt9LCJyYW5kb20iOiI1ZmNmYzIxNDFlNjlmOTM0NjE0YmU5MTdiMWZjN2IxZSJ9.XsjNiwZwxgBpbM0sE67QcUd0Vxy1bdH4UeBDpQ2vMoPgyRHbe8MD2kITZ2gWDV881wZMX921AN7w4iF2hPDhWw). 
 
